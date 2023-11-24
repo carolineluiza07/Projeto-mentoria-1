@@ -1,1 +1,32 @@
- 
+ h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+ }
+ h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black
+ }
+
+ h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ #Igor-profile {
+
+    width: center;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+
+ }
+
+ #Objetivo-da-mentoria {
+
+    font-family: 'Montserrat';
+    border:2px solid #eaeaeaea;
+    border-radius: 25px;
+    padding: 20px;
+
+ }
+
