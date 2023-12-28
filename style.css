@@ -18,7 +18,12 @@
     margin-left: auto;
     margin-bottom: 0;
     margin-right: auto;
+   
 
+ }
+
+ p:hover {
+   font-size: 28px;
  }
 
  #Objetivo-da-mentoria {
@@ -46,3 +51,13 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
+ div Igor-profile {
+   width: 50px;
+   height: 50px;
+   display: inline-block;
+ }
+ div Caroline-profile {
+   width: 50px;
+   height: 50px;
+   display: inline-block;
+ }
