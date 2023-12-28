@@ -1,6 +1,6 @@
  h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blueviolet;
+    color: rgb(255, 254, 255);
  }
  h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,6 +33,9 @@
  #ImageHeader {
    /* Background pattern from Toptal Subtle Patterns */
    background-image: url("/img/bg_top.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
    height: 200px;
    width: 100%;
 }
