@@ -39,3 +39,10 @@
    height: 250px;
    width: 100%;
 }
+
+body {
+background-image: url('IMG/global.avif');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
